@@ -3,4 +3,5 @@ K-means Implementation
 
 Python Script.
 
+![](A.png)
 
